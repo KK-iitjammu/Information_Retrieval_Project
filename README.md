@@ -5,7 +5,7 @@ Query Processing with Elasticsearch &amp; improvement using Query Expansion with
 The aim of this project is to utilize the Elasticsearch functionalities for Information Retrieval task and in that specifically for query processing and retrieving top k results (i.e. documents) for the given query.
 
 This project involves writing two python notebooks:
-1. First notebook has a program parse the FIRE 2010 english Dataset and index all the documents using Elasticsearch APIs and then retrieving top k documents for all the queries in dataset.
+1. First notebook has a program to parse the FIRE 2010 english Dataset and index all the documents using Elasticsearch APIs and then retrieving top k documents for all the queries in dataset.
 2. Second notebook has a program to improve above results using Query Expansion and Rocchio Algorithm.
 
 ### Getting Started
